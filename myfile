@@ -1,0 +1,6 @@
+git status
+git add.
+git status
+git commit -m "my first commit"
+git status
+git log
